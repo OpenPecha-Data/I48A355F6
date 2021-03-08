@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W10247
   title: བསྟན་རྩིས་གསལ་བའི་ཉིན་བྱེད
   author: ''
-  volumes: {}
+  volumes:
+    c701975d8b1f48a8affde1a76a0301fd:
+      image_group_id: I4277
+      title: ''
+      volume_number: 1
+      total_pages: 374
